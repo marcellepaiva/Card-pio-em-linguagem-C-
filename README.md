@@ -1,1 +1,1 @@
-# Cardapio em linguagem C
+Cardapio de um restaurante desenvolvido em linguagem C
